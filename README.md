@@ -69,3 +69,67 @@ Cryptographic Systems
 Data Analysis
 Search Engines
 Theory and Terminology
+
+Types of DS :
+
+Array Data Structure
+
+String Data Structure
+
+Linked List Data Structure
+
+Double Linked List Data Structure
+
+Circular Linked List Data Structure
+
+Stack Data Structure
+
+Queue Data Structure
+
+Heap Data Structure
+
+Hash Data Structure
+
+Matrix/Grid Data Structure
+
+Graph Data Structure
+
+Tree Data Structure
+
+Types of Algorithms
+Here are different type of algorithms which we are going to learn in this tutorial:
+
+DSA - Searching Algorithms
+
+DSA - Sorting Algorithms
+
+DSA - Approximation Algorithms
+
+DSA - Divide and Conquer Algorithms
+
+DSA - Greedy Algorithms
+
+DSA - Recursion Algorithm
+
+DSA - Backtracking Algorithm
+
+DSA - Randomized Algorithms
+
+DSA - Dynamic Programming
+
+DSA - Pattern Searching
+
+DSA - Mathematical Algorithms
+
+DSA - Geometric Algorithms
+
+DSA - Bitwise Algorithms
+
+DSA - Branch and Bound Algorithm
+
+Characteristics of a Data Structure
+Correctness − Data structure implementation should implement its interface correctly.
+
+Time Complexity − Running time or the execution time of operations of data structure must be as small as possible.
+
+Space Complexity − Memory usage of a data structure operation should be as little as possible.
